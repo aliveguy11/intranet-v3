@@ -9,9 +9,12 @@ NL Intranet V3 is the fastest &amp; lightest intranet, games, and apps running o
 - Proxy services with all working search system
 
 # NL Developers:
-- aliveguy11 (owner)
-- rwax0 (developer)
+- Alive (@aliveguy11)
+- RWax (@rwax0)
+- Hiwo (@hiwoboi)
 
 # DogeNetwork Developers:
 - Derpman
 - Spark
+
+This project is updated weekly, sometimes daily - expect lots of content regularly being added.
